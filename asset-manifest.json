@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/aditya-rastogi-portfolio/static/css/main.4880b4c8.css",
+    "main.js": "/aditya-rastogi-portfolio/static/js/main.b75a1948.js",
+    "index.html": "/aditya-rastogi-portfolio/index.html",
+    "main.4880b4c8.css.map": "/aditya-rastogi-portfolio/static/css/main.4880b4c8.css.map",
+    "main.b75a1948.js.map": "/aditya-rastogi-portfolio/static/js/main.b75a1948.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4880b4c8.css",
+    "static/js/main.b75a1948.js"
+  ]
+}
