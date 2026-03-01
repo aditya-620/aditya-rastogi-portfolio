@@ -18,7 +18,7 @@
 Welcome to my interactive portfolio website! This is a modern, pixel-art inspired portfolio showcasing my skills, projects, and experience as a Java Developer. Built with cutting-edge technologies and featuring smooth animations, this portfolio demonstrates my passion for clean code and beautiful user experiences.
 
 ### ✨ Live Demo
-[![Portfolio Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://aditya-620.github.io/aditya-rastogi-portfolio/)
+[![Portfolio Demo](https://img.shields.io/badge/Live_Demo-Visit_Now-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white)](https://adityarastogi.dev/)
 
 ## 🎯 Features
 
