@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/aditya-rastogi-portfolio/static/css/main.4880b4c8.css",
-    "main.js": "/aditya-rastogi-portfolio/static/js/main.b75a1948.js",
-    "index.html": "/aditya-rastogi-portfolio/index.html",
-    "main.4880b4c8.css.map": "/aditya-rastogi-portfolio/static/css/main.4880b4c8.css.map",
-    "main.b75a1948.js.map": "/aditya-rastogi-portfolio/static/js/main.b75a1948.js.map"
+    "main.css": "./static/css/main.4880b4c8.css",
+    "main.js": "./static/js/main.3df01afc.js",
+    "index.html": "./index.html",
+    "main.4880b4c8.css.map": "./static/css/main.4880b4c8.css.map",
+    "main.3df01afc.js.map": "./static/js/main.3df01afc.js.map"
   },
   "entrypoints": [
     "static/css/main.4880b4c8.css",
-    "static/js/main.b75a1948.js"
+    "static/js/main.3df01afc.js"
   ]
 }
